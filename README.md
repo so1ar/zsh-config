@@ -7,7 +7,7 @@
 - [zsh-completions](https://github.com/zsh-users/zsh-completions)；
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)；
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)；
-- [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search)；
+- [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search)；    
 *以上都是 zimfw 默认装的*    
 - [powerlevel10k主题](https://github.com/romkatv/powerlevel10k)；
 - 两个 ohmyzsh 仓库里的插件，[vi-mode](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/vi-mode) 和 [sudo](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/sudo)。
